@@ -1,5 +1,6 @@
 # Canada_YbAnalysis
 
+canada-ybanalysis.ipynb dosyası kod dosyamdır diğerini canada-ybanalysis (5) yanlış yükledim ve silemedim geri maalesef.
 Kaggle: https://www.kaggle.com/code/itselif/canada-ybanalysis
 
 # Project Objective:
