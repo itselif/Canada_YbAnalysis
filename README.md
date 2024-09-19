@@ -1,5 +1,7 @@
 # Canada_YbAnalysis
 
+Kaggle: https://www.kaggle.com/code/itselif/canada-ybanalysis
+
 # Project Objective:
 This project aims to analyze and predict the view counts of YouTube videos in Canada. The dataset includes variables such as the video's category, title, tags, comment count, likes, and dislikes. This analysis seeks to understand the factors affecting the popularity of videos and develop data-driven models to more accurately predict the view counts of future videos.
 
